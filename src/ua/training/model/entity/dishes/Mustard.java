@@ -1,4 +1,4 @@
-package ua.training.model.dishes;
+package ua.training.model.entity.dishes;
 
 import ua.training.model.entity.Client;
 

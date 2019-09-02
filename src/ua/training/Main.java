@@ -2,12 +2,12 @@ package ua.training;
 
 
 
-import ua.training.model.dishes.Dish;
+import ua.training.model.entity.dishes.Dish;
 import ua.training.model.entity.Client;
 import ua.training.model.entity.Order;
-import ua.training.model.factory.*;
-import ua.training.model.service.RestaurantService;
-import ua.training.model.service.RestaurantServiceImpl;
+import ua.training.factory.*;
+import ua.training.service.RestaurantService;
+import ua.training.service.RestaurantServiceImpl;
 
 import java.util.ArrayList;
 import java.util.List;
