@@ -19,7 +19,7 @@ public class Ketchup implements Dish {
     @Override
     public String toString() {
         return "Ketchup{" +
-                "abstractDishDecorated=" + abstractDishDecorated +
+                "with=" + abstractDishDecorated +
                 '}';
     }
 }

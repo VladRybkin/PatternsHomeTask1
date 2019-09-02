@@ -16,5 +16,10 @@ public class Mustard implements Dish {
         client.setHapiness(1);
     }
 
-
+    @Override
+    public String toString() {
+        return "Mustard{" +
+                "with=" + abstractDishDecorated +
+                '}';
+    }
 }

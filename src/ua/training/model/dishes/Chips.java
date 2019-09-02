@@ -8,4 +8,9 @@ public class Chips implements Dish {
         client.setHapiness((client.getHapiness()+(client.getHapiness()/100)*5));
 
     }
+
+    @Override
+    public String toString() {
+        return "Chips{}";
+    }
 }
