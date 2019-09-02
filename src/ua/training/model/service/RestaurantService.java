@@ -1,4 +1,4 @@
-package ua.training.model.observer;
+package ua.training.model.service;
 
 import ua.training.model.entity.Observer;
 import ua.training.model.entity.Order;
